@@ -1,0 +1,17 @@
+    3  git clone https://github.com/alejandro002/Equipo-Verde.git
+    7  git status
+    8  git add .
+    9  git status
+   10  git commit-m"commit inicial"
+   11  git commit-m "commit inicial"
+   12  git status
+   13  git commit -m"initial commit"
+   17  git congig --global user.email "sate002@gmail.com"
+   18  git config --global user.email "sate002@gmail.com"
+   19  git config --global core.editor notepad
+   23  git status
+   24  git commit -m"initial commit
+   25  git status
+   27  git status
+   28  git push
+   29  history  | grep git >> comandos.txt

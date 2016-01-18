@@ -69,3 +69,17 @@
    89  git commit -m"inicia commit"
    91  git status
    92  history | grep git >> comandos.txt
+    1  git clone https://github.com/alejandro002/Equipo-Verde.git
+    2  git status
+    4  git status
+    5  git add .
+    6  git commit-m "initial commit"
+    7  git commit -m "commit initial"
+    8  git commit -m "commit initial"
+    9  git status
+   10  git add .
+   11  git status
+   12  git commit -m "commit"
+   13  git status
+   14  git push
+   15  history | grep git >>comandos.txt
